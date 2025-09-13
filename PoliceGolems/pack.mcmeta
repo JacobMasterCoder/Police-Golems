@@ -1,0 +1,7 @@
+{
+   "pack": {
+      "pack_format": 16,
+      "description": "Police Officers as Iron Golems,
+      "supported_formats": {"min_inclusive": 9, "max_inclusive": 99}
+   }
+}
